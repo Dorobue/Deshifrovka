@@ -35,7 +35,7 @@ print(full_text)
 partial_text = d.RSP(l=1000)
 print(partial_text)
 
-
+```
 ## Ключевые методы
 # KR(s)
 Возвращает список повторяющихся биграмм в слове.
